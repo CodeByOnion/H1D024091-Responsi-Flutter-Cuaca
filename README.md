@@ -88,9 +88,20 @@ flutter run
 
 ## Screenshot
 
-| Home | Search |
+### Home — Cuaca Cerah
+| Bagian Atas | Bagian Bawah |
 |---|---|
-| *(Tambahkan screenshot di `screenshots/home.png`)* | *(Tambahkan screenshot di `screenshots/search.png`)* |
+| <img src="Home-Cerah%201.jpeg" alt="Home Cuaca Cerah 1" width="260" /> | <img src="Home-Cerah%202.jpeg" alt="Home Cuaca Cerah 2" width="260" /> |
+
+### Home — Cuaca Berawan
+| Bagian Atas | Bagian Bawah |
+|---|---|
+| <img src="Home-Berawan%201.jpeg" alt="Home Cuaca Berawan 1" width="260" /> | <img src="Home-Berawan%202.jpeg" alt="Home Cuaca Berawan 2" width="260" /> |
+
+### Cari Lokasi & Prakiraan 7 Hari
+| Cari Lokasi | Prakiraan 7 Hari |
+|---|---|
+| <img src="Cari%20Lokasi.jpeg" alt="Halaman Cari Lokasi" width="260" /> | <img src="Perkiraan%207%20Hari.jpeg" alt="Halaman Prakiraan 7 Hari" width="260" /> |
 
 ## Asumsi
 
