@@ -1,0 +1,38 @@
+name: awanara
+description: "AWANARA - aplikasi cuaca Flutter (Open-Meteo, MVVM, glassmorphism adaptif cuaca)."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Networking: HTTP GET ke Open-Meteo (forecast + geocoding)
+  http: ^1.6.0
+
+  # State management untuk MVVM (ChangeNotifier + Provider)
+  provider: ^6.1.2
+
+  # Local storage: lokasi favorit, riwayat pencarian, lokasi terakhir
+  shared_preferences: ^2.5.4
+
+  # Typography (Poppins + Inter)
+  google_fonts: ^8.1.0
+
+  # Format tanggal/hari untuk forecast
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
